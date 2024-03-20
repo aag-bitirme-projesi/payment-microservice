@@ -9,6 +9,6 @@ public class TokenDto {
     private String expYear;
     private String cvc;
     private String token;
-    private String username;
+    //private String username;
     private boolean success;
 }

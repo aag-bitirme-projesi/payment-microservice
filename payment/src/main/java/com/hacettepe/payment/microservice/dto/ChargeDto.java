@@ -8,7 +8,7 @@ import java.util.Map;
 @Data
 public class ChargeDto {
     private String token;
-    private String username;
+    //private String username;   // i dont think this is needed 
     private Double amount;
     private Boolean success;
     private String message;
