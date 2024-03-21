@@ -1,6 +1,6 @@
 # payment-microservice
 
-### http://localhost:8080/swagger-ui/index.html
+### http://localhost:8081/swagger-ui/index.html
 
 For testing we use test token, try it like this from Swagger:
 
